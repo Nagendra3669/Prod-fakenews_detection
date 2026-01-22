@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+torch
+transformers
+pinecone-client>=3.0.0
+tldextract
