@@ -1,7 +1,10 @@
 fastapi
 uvicorn
 python-dotenv
+requests
 torch
 transformers
 pinecone-client>=3.0.0
 tldextract
+streamlit
+streamlit-option-menu
