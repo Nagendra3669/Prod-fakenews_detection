@@ -79,7 +79,7 @@ with st.sidebar:
 
 # --- NAVIGATION LOGIC ---
 if selected == "Analyzer":
-    st.title("News Verification Engine")
+    st.title("News Nagendra Anaparthi")
     st.markdown("Analyze news articles with high-precision Deep Learning.")
     
     news_text = st.text_area("Paste the news article text here:", height=250, placeholder="In a shocking turn of events...")
